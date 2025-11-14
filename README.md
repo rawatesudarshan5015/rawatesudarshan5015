@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Sudarshan Rawate</h1>
 <h3 align="center">A passionate Software developer from India</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rawatesudarshan5015" alt="rawatesudarshan5015" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rawatesudarshan5015" alt="Github" /></a> </p>
 
-- 🌱 I’m currently learning **Advance ReactJs**
+- 🌱 I’m currently learning **Advance DevOps**
 
-- 💬 Ask me about **react, solidity, CPP**
+- 💬 Ask me about **react, solidity, CPP, DSA**
 
-- 📫 How to reach me **rawatesudarshan@gmail.com**
+- 📫 How to reach me **rawatesudarshan5015@gmail.com**
 
-- 📄 Know about my experiences [Resume]([https://drive.google.com/file/d/14HrOnrnnV-tx5mx_V-K_rc1B4xjbqBta/view?usp=drive_link](https://drive.google.com/file/d/1wBJeTw6jgQQiL4pT1gSsPMzxf-jlFGI0/view?usp=drive_link))
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1wBJeTw6jgQQiL4pT1gSsPMzxf-jlFGI0/view?usp=drive_link)
 
 - ⚡ Fun fact **I’m the kind of person who chills with friends, stays lazy yet somehow always gets work done on time—and I’m still passionate about diving into new technologies!**
 

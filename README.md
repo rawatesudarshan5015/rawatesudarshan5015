@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **rawatesudarshan@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/14HrOnrnnV-tx5mx_V-K_rc1B4xjbqBta/view?usp=drive_link)
+- 📄 Know about my experiences [Resume]([https://drive.google.com/file/d/14HrOnrnnV-tx5mx_V-K_rc1B4xjbqBta/view?usp=drive_link](https://drive.google.com/file/d/1wBJeTw6jgQQiL4pT1gSsPMzxf-jlFGI0/view?usp=drive_link))
 
 - ⚡ Fun fact **I’m the kind of person who chills with friends, stays lazy yet somehow always gets work done on time—and I’m still passionate about diving into new technologies!**
 
